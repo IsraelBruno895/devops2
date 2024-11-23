@@ -1,6 +1,7 @@
 # devops2
 JAVA
 
+```
  public class Arquivo{
     public static void maian(String[] args) throws Exception {
         System.out.println("Ola, Mundo");
@@ -15,3 +16,4 @@ JAVA
         JUtil.close();
     }
 }
+```
