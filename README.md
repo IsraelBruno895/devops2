@@ -1,7 +1,7 @@
 # devops2
-E-info@2024
+JAVA
 
-public class Arquivo{
+ public class Arquivo{
     public static void maian(String[] args) throws Exception {
         System.out.println("Ola, Mundo");
         System.out.println("Digite duas notas:");
